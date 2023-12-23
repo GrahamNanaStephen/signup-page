@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.nav{
+    
+    height: 9vh;
+    padding-bottom: -1px;
+    
+}
+
+ul{
+    padding: 8px;
+    background-color: rgb(45, 85, 121);
+    
+    
+}
+
+ul li{
+    display: inline-block;
+    padding: 10px;
+    
+}
+
+ul li a{
+    
+    text-decoration: none;
+    color:white;
+    margin: 10px;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+ul li a:hover{
+    color: rgb(33, 54, 68);
+    background-color: rgb(229, 232, 234);
+    transition: 0.6s ease;
+    margin: 10px;
+    padding: 10px;
+    
+   
+  
+}
+
+.logo{
+    
+    color:rgb(255, 255, 255);
+    font-family:sans-serif;
+
+    
+}
+
+
+
+
+
+
+
+.toppage{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+    font-family: sans-serif;
+    background-color: #fff;
+    background-size: cover;
+    background-position: center;
+    padding-top: 55px;
+    height: 100vh;
+   
+    
+}
+.topic{
+    padding: 10px;
+}
+
+.picture img{
+    width: 100px;
+    border-radius: 80px;
+}
+
+.sign-up{
+    
+    background-color: rgb(45, 85, 121);
+    margin: 10px;
+    width: 20%;
+    height: 85vh;
+    border-radius: 20px;
+    padding: 10px; 
+    color: aliceblue;
+}
+
+.usernametag{
+    margin-top: 20px;
+    
+    
+}
+
+
+.firstnametag{
+    margin-top: 20px;
+    
+}
+
+
+.lastnametag{
+    margin-top: 20px;
+     
+}
+
+.email{
+    margin-top: 20px;
+    padding-left: 0px;
+}
+
+.telephone{
+    margin-top: 20px;
+    padding-left: 0px;
+}
+
+.submit{
+    padding: 8px;
+    margin: 18px;
+    border-color: aliceblue;
+    border-radius: 10px;
+    
+    color: aliceblue;
+    background-color: rgb(45, 85, 121);
+    
+}
+
+.submit:hover{
+    color:  rgb(45, 85, 121);;
+    background-color:#fff;
+}
+
+.name{
+    padding: 5px;
+    border-radius: 5px;
+    border-color: #fff;
+}
